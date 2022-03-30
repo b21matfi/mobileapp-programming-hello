@@ -3,7 +3,7 @@
 
 **Skriv din rapport här!**
 Ändrade Hello world till "Något jättefint" jag gjorde detta genom att hitta hello world och ändrade texten
- android:text="Något jättefint".
+ android:text="Något jättefint" .
 _Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
